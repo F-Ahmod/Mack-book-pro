@@ -1,0 +1,51 @@
+
+/* css style */
+.promobtn{
+    background-color: red;
+    color: white;
+}
+
+/* hover on button */
+.memory:hover{
+    background-color:black;
+color: white;
+}
+.storage:hover{
+    background-color:black;
+color: white;
+
+}
+.delivery:hover{
+    background-color:black;
+color: white;
+
+}
+
+h3{
+    
+    font-weight: bold;
+}
+
+h5{
+    font-weight: bold;
+}
+#best-price{
+   font-weight: bold;
+
+}
+#Extra-Memory-Cost{
+   font-weight: bold;
+
+}
+#Extra-Storage-Cost{
+   font-weight: bold;
+
+}
+#Delivery-Charge{
+   font-weight: bold;
+
+}
+#total-Price{
+   font-weight: bold;
+
+}
